@@ -255,4 +255,13 @@ public class ModeLibro implements CRUD {
         return lista;
 
     }
+
+
+
+
+
+
+
+
+
 }
